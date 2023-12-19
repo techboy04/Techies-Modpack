@@ -1,0 +1,13 @@
+filename = 'wakes-0.2.0-for-1.19.2.jar'
+name = 'Wakes'
+side = 'client'
+
+[download]
+hash = '8ac9629ce05f329c5f1b95f6372f1e1584cf4905c7a01c049cbcac9f8683c731281c5309b16526597ea409476f2e544400b860610a1bdbbb1c412ba6068d5a04'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dlNu0RQY/versions/7tVvcrxC/wakes-0.2.0-for-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'dlNu0RQY'
+version = '7tVvcrxC'

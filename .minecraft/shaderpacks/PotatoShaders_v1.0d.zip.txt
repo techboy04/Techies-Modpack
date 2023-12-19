@@ -1,0 +1,7 @@
+#Mon Dec 18 23:40:45 EST 2023
+outlineShimmerToggle=true
+motionblurToggle=false
+bloomEnabled=false
+bloomIntensity=1.1
+DoFQuality=2
+ambientOcclusionToggle=true

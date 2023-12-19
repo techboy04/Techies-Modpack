@@ -1,0 +1,13 @@
+filename = 'better-clouds-1.2.10+1.19.2.jar'
+name = 'Better Clouds'
+side = 'client'
+
+[download]
+hash = '6c84a634a057714fc19f4064daa8a9860acb2bc9bb0cec253149115216682452d2ff0942e5c8d02e0c1303dfa52c0ae53e8b96a8525cbae04c2b4aa0bfbf6a12'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5srFLIaK/versions/IE3z1D5Y/better-clouds-1.2.10%2B1.19.2.jar'
+
+[update.modrinth]
+mod-id = '5srFLIaK'
+version = 'IE3z1D5Y'

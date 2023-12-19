@@ -1,0 +1,14 @@
+name = "Igrium's Replay Exporter"
+filename = "mc-world-export-0.6.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iwvovClp/versions/cUU1LSmw/mc-world-export-0.6.3.jar"
+hash-format = "sha512"
+hash = "0b971bdfe5d79ec15f69dd69b665cc3a35cd780d0bc1559a74aa4a305e6dbcdd4b7fa91dd4051ef9ccc0bbef65183dedc2ea46adc3559ebb478069d2b6f40b55"
+
+[update]
+[update.modrinth]
+mod-id = "iwvovClp"
+version = "cUU1LSmw"

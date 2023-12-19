@@ -1,0 +1,14 @@
+name = "ConfigLib148"
+filename = "configlib148-1.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ioNY5Bzp/versions/aTZiVZTY/configlib148-1.2.0.jar"
+hash-format = "sha512"
+hash = "dcb4b42ad7e1139cfda4f4ac4ca709ac6f1cac28977c209e744f2f80449e1324ca1980c813c4aebe40222e0c73dc847d9c0a5b7d635c97dc9ff58fb896fb62a0"
+
+[update]
+[update.modrinth]
+mod-id = "ioNY5Bzp"
+version = "aTZiVZTY"

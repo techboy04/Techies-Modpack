@@ -1,0 +1,32 @@
+
+[general]
+	allowed_servers = "your.server.here"
+	announce_new_song = 2
+	link_mode = 1
+	send_the_essential_packets = false
+	first_time = false
+	mod_mode = 2
+	notification_album_art_location = 1
+	send_the_packets = false
+	send_songs_to_servers = false
+	announcement_message = "&aCraftify > &7Now Playing: &b${song} by ${artists}"
+
+[servers]
+	allowed_servers = ""
+	send_songs_to_servers = false
+
+[rendering]
+	controls = true
+	display_mode = 1
+	position_x_offset = 0.0
+	position_y_offset = 0.0
+	anchor_point = 0
+	render_type = 0
+
+[login]
+	refresh_token = ""
+	spotify_login_token = ""
+	login_button = "login"
+	ytmd_password = "934TH"
+	service_port = 8880
+

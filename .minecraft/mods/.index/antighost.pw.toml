@@ -1,0 +1,13 @@
+filename = 'antighost-1.19.1-fabric0.58.5-1.1.5.jar'
+name = 'AntiGhost'
+side = 'both'
+
+[download]
+hash = 'bcc07d98ac2325f7bb894fb73f54b0612320cbbf5e0d1ae0c92ac1d7f63cfff3a4267b9c8fa1c110300bce1b201589340649413ea116bf10bc654241ad1c7af8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.19.1-fabric0.58.5-1.1.5/antighost-1.19.1-fabric0.58.5-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'Jw3Wx1KR'
+version = 'm3TU0WFs'

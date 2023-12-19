@@ -1,0 +1,14 @@
+name = "ArmorHUD (Fabric)"
+filename = "armorhud-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/bVL2HypO/versions/aodQU8rA/armorhud-1.1.1.jar"
+hash-format = "sha512"
+hash = "3c8cdb205291979fd96d46e3740dac3146c22d0165509eb37f7039bdca1ca614c2a9c86aaf574549334fd2ac2e9e53630f88c6c3bcc0f828ebe3d27f1515fec3"
+
+[update]
+[update.modrinth]
+mod-id = "bVL2HypO"
+version = "aodQU8rA"

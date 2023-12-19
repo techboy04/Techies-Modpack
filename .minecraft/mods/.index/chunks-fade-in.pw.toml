@@ -1,0 +1,13 @@
+filename = 'chunksfadein-v3.0.12-1.19.jar'
+name = 'Chunks Fade In'
+side = 'both'
+
+[download]
+hash = 'f19cd87712ecab9d6039f41f5108fb339cc338bb0c53901f3105e9cb81242b1318f095b6147b1fa12348f04a35b5b3c165d91f969d6ac7e84e3f79921716785f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JaNmzvA8/versions/FHldinWI/chunksfadein-v3.0.12-1.19.jar'
+
+[update.modrinth]
+mod-id = 'JaNmzvA8'
+version = 'FHldinWI'
