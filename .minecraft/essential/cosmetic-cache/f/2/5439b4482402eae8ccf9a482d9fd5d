@@ -1,0 +1,724 @@
+{
+    "metadata_revision": 1,
+    "id": "JAN12",
+    "availability": {
+        "after": "2024-01-12T00:00:00Z",
+        "until": "2024-01-13T00:00:00Z"
+    },
+    "pages": {
+        "5": {
+            "rows": [
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "ASTRO_BEN"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SCI_FI_WINGS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FIRE_AXE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FUTURISTIC_GLASSES",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SPIDERFLIP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LIGHTNING_HANDS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FUTURISTIC_SNEAKERS",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "AI_BOSS"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "COMPUTERHEAD",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SUIT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HACKER_AURA",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "green"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HACKER_WINGS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DAB_LOOP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HACKER_SWORD",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "RAINBOW_TROOPER"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "RAINBOW_SUIT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "NEON_GLASSES",
+                        "settings": [
+                            {
+                                "type": "PLAYER_POSITION_ADJUSTMENT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "VEST",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "NEON_RGB_FLAME_BATTLE_AXE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PROPELLER_HAT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "NEON_RGB_FIRE_WINGS",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "CUTE_EMOJI_HEART"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FAIRY_WINGS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HEART_PARTICLES",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LONG_HAIR",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blonde"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "ANIME_DANCE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SCHOOL_DRESS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "OUTDOOR_RUCKSACK",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            ]
+        },
+        "4": {
+            "rows": [
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "ASTRO_BEN"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SCI_FI_WINGS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FIRE_AXE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FUTURISTIC_GLASSES",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SPIDERFLIP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LIGHTNING_HANDS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FUTURISTIC_SNEAKERS",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "AI_BOSS"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "COMPUTERHEAD",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SUIT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HACKER_AURA",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "green"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HACKER_WINGS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DAB_LOOP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HACKER_SWORD",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "RAINBOW_TROOPER"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "RAINBOW_SUIT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "NEON_GLASSES",
+                        "settings": [
+                            {
+                                "type": "PLAYER_POSITION_ADJUSTMENT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "VEST",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "NEON_RGB_FLAME_BATTLE_AXE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PROPELLER_HAT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "NEON_RGB_FIRE_WINGS",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "CUTE_EMOJI_HEART"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FAIRY_WINGS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HEART_PARTICLES",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LONG_HAIR",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blonde"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "ANIME_DANCE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SCHOOL_DRESS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "OUTDOOR_RUCKSACK",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            ]
+        },
+        "3": {
+            "rows": [
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "ASTRO_BEN"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SCI_FI_WINGS",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SPIDERFLIP",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LIGHTNING_HANDS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FUTURISTIC_SNEAKERS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FIRE_AXE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "AI_BOSS"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "COMPUTERHEAD",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HACKER_WINGS",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DAB_LOOP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SUIT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HACKER_AURA",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "RAINBOW_TROOPER"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "RAINBOW_SUIT",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "NEON_RGB_FLAME_BATTLE_AXE",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "NEON_GLASSES",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PROPELLER_HAT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "NEON_RGB_FIRE_WINGS",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "CUTE_EMOJI_HEART"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FAIRY_WINGS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "ANIME_DANCE",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HEART_PARTICLES",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SCHOOL_DRESS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LONG_HAIR",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blonde"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            ]
+        }
+    }
+}

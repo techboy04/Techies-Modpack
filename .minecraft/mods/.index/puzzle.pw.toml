@@ -1,0 +1,13 @@
+filename = 'puzzle-1.4.2-1.19.jar'
+name = 'Puzzle'
+side = 'client'
+
+[download]
+hash = 'ce159526430af954926f6973753ce11e2c9004ceeecd6d2a70a95aef6b3f8695350f634acfaf75f8cc7843cd98fb6d24578e8cded3886b37c5c3584bf19089f5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3IuO68q1/versions/NwemUTyO/puzzle-1.4.2-1.19.jar'
+
+[update.modrinth]
+mod-id = '3IuO68q1'
+version = 'NwemUTyO'

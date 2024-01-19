@@ -1,0 +1,818 @@
+{
+    "metadata_revision": 1,
+    "id": "JAN04",
+    "availability": {
+        "after": "2024-01-04T00:00:00Z",
+        "until": "2024-01-05T00:00:00Z"
+    },
+    "pages": {
+        "5": {
+            "rows": [
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "HOLY_ANGEL"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FALLEN_ANGEL_WINGS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "ANGEL_HALO",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BLING_CHAIN",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "gold"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "T_POSE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LIGHTNING_SHOES",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "yellow"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BATHROBE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "white"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "BEST_BUDDIES"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PUPPY",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "shiba"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PAJAMA_TOP",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SLEEP",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PET_R",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DENIM_OVERALL",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SNEAKERS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "white"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "AXOLOTL_BLUE"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FAIRY_WINGS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "AXOLOTL_ONESIE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SIT_ON_FLOOR",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PIROUETTE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "AXOLOTL",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BARE_FEET",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "MEOW_MEOW"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HELLCASTLE_BLANCA_HAT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "orange"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PROPELLER_HAT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PAPER_BAG",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HOMER_DANCE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BUSH",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "oak"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "EVIL_LAUGH",
+                        "settings": [
+                        ]
+                    }
+                ]
+            ]
+        },
+        "4": {
+            "rows": [
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "HOLY_ANGEL"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FALLEN_ANGEL_WINGS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "ANGEL_HALO",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BLING_CHAIN",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "gold"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "T_POSE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LIGHTNING_SHOES",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "yellow"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BATHROBE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "white"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "BEST_BUDDIES"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PUPPY",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "shiba"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PAJAMA_TOP",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SLEEP",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PET_R",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DENIM_OVERALL",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SNEAKERS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "white"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "AXOLOTL_BLUE"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FAIRY_WINGS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "AXOLOTL_ONESIE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SIT_ON_FLOOR",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PIROUETTE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "AXOLOTL",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BARE_FEET",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "MEOW_MEOW"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HELLCASTLE_BLANCA_HAT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "orange"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PROPELLER_HAT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PAPER_BAG",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HOMER_DANCE",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BUSH",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "oak"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "EVIL_LAUGH",
+                        "settings": [
+                        ]
+                    }
+                ]
+            ]
+        },
+        "3": {
+            "rows": [
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "HOLY_ANGEL"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FALLEN_ANGEL_WINGS",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "T_POSE",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LIGHTNING_SHOES",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "yellow"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "ANGEL_HALO",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BATHROBE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "white"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "BEST_BUDDIES"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PUPPY",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "shiba"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PET_R",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DENIM_OVERALL",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PAJAMA_TOP",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SNEAKERS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "white"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "AXOLOTL_BLUE"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "FAIRY_WINGS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "pink"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PIROUETTE",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "AXOLOTL_ONESIE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SIT_ON_FLOOR",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "AXOLOTL",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "blue"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "MEOW_MEOW"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HELLCASTLE_BLANCA_HAT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "orange"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PROPELLER_HAT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PAPER_BAG",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HOMER_DANCE",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BUSH",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "EVIL_LAUGH",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PROPELLER_HAT",
+                        "settings": [
+                        ]
+                    }
+                ]
+            ]
+        }
+    }
+}

@@ -1,0 +1,13 @@
+filename = 'entity_texture_features_fabric_1.19.2-4.6.1.jar'
+name = '[ETF] Entity Texture Features'
+side = 'client'
+
+[download]
+hash = 'b241213af57f0bd82dba195c04d44abe8252a09099b7f61e1402ab5d550c9644af0c4d286cae047c15acb034d44ad9739bd25c8c21647f17a25cc8bf937cd396'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BVzZfTc1/versions/WBLEReJT/entity_texture_features_fabric_1.19.2-4.6.1.jar'
+
+[update.modrinth]
+mod-id = 'BVzZfTc1'
+version = 'WBLEReJT'

@@ -1,0 +1,686 @@
+{
+    "metadata_revision": 1,
+    "id": "DEC27",
+    "availability": {
+        "after": "2023-12-27T00:00:00Z",
+        "until": "2023-12-28T00:00:00Z"
+    },
+    "pages": {
+        "5": {
+            "rows": [
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "MAIN_CHARACTER"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DEVIL_HORNS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BLINDFOLD",
+                        "settings": [
+                            {
+                                "type": "PLAYER_POSITION_ADJUSTMENT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "EVIL_LAUGH",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DEMON_WINGS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SPIDERFLIP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BUTTON_UP_SHIRT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "GRUNGY"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PLUSHIE_BACKPACK",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PANDA_EARS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HELLCASTLE_BLANCA_HAT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "gray"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "GRUNGE_SHIRT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "gray"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "WORSHIP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LONG_HAIR",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "ROCKSTAR_REGGIE"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "ELECTRIC_GUITAR",
+                        "settings": [
+                            {
+                                "type": "SIDE",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            },
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BRACELET",
+                        "settings": [
+                            {
+                                "type": "SIDE",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            },
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "silver"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BEANIE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BLING_CHAIN",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "silver"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PUSHUPS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PANTS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "white"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            ]
+        },
+        "4": {
+            "rows": [
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "MAIN_CHARACTER"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DEVIL_HORNS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BLINDFOLD",
+                        "settings": [
+                            {
+                                "type": "PLAYER_POSITION_ADJUSTMENT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "EVIL_LAUGH",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DEMON_WINGS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SPIDERFLIP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BUTTON_UP_SHIRT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "GRUNGY"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PLUSHIE_BACKPACK",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PANDA_EARS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "HELLCASTLE_BLANCA_HAT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "gray"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "GRUNGE_SHIRT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "gray"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "WORSHIP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LONG_HAIR",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "ROCKSTAR_REGGIE"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "ELECTRIC_GUITAR",
+                        "settings": [
+                            {
+                                "type": "SIDE",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            },
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BRACELET",
+                        "settings": [
+                            {
+                                "type": "SIDE",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            },
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "silver"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BEANIE",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BLING_CHAIN",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "silver"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PUSHUPS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PANTS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "white"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            ]
+        },
+        "3": {
+            "rows": [
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "MAIN_CHARACTER"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DEVIL_HORNS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "DEMON_WINGS",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BLINDFOLD",
+                        "settings": [
+                            {
+                                "type": "PLAYER_POSITION_ADJUSTMENT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BUTTON_UP_SHIRT",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "SPIDERFLIP",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "GRUNGY"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PLUSHIE_BACKPACK",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "GRUNGE_SHIRT",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "gray"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "LONG_HAIR",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "WORSHIP",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PANDA_EARS",
+                        "settings": [
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "BUNDLE",
+                        "bundle": "ROCKSTAR_REGGIE"
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "ELECTRIC_GUITAR",
+                        "settings": [
+                            {
+                                "type": "SIDE",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                }
+                            },
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "black"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BLING_CHAIN",
+                        "settings": [
+                            {
+                                "type": "VARIANT",
+                                "id": null,
+                                "enabled": true,
+                                "data": {
+                                    "variant": "silver"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "PUSHUPS",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BRACELET",
+                        "settings": [
+                        ]
+                    },
+                    {
+                        "type": "COSMETIC",
+                        "cosmetic": "BEANIE",
+                        "settings": [
+                        ]
+                    }
+                ]
+            ]
+        }
+    }
+}
